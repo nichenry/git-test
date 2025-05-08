@@ -11,3 +11,5 @@ hello world
 
 license
 hello world
+
+copyright(R)
