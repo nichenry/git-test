@@ -13,3 +13,4 @@ license
 hello world
 
 copyright(R)
+license(R)
